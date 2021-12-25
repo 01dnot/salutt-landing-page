@@ -11,8 +11,6 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
-	border-radius: 0px 0px 40px 40px;
-
 }
 
 .headerBackground {
@@ -611,6 +609,7 @@ footer {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
+	padding-top: 48px;
 }
 
 .footerText {
