@@ -4,7 +4,7 @@ title: Terms and Conditions
 include_in_header: false
 ---
 
-**END USER LICENSE AGREEMENT**
+# END USER LICENSE AGREEMENT
 
 
 **Last updated December 25, 2021**
