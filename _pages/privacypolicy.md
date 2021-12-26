@@ -4,7 +4,7 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**PRIVACY NOTICE**
+# PRIVACY NOTICE
 
 
 **Last updated December 25, 2021**
