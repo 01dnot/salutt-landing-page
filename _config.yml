@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : # assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  :                                         # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : Wow for en fantastisk app!
+app_description                           : You will never miss a birthday again!
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -36,16 +36,16 @@ youtube_username                          :
 features                                  :
 
   - title                                 : Wishlist
-    description                           : Create, share and view wishlists for your friends and family!
-    fontawesome_icon_name                 : magic
+    description                           : Create and share wishlists for your friends and family!
+    fontawesome_icon_name                 : gift
     
   - title                                 : Reminders
-    description                           : You will never miss a birthday again!
-    fontawesome_icon_name                 : mobile
+    description                           : Get notified when when a birthday is around the corner!
+    fontawesome_icon_name                 : bell
 
   - title                                 : Overview
-    description                           : Full control over age etc
-    fontawesome_icon_name                 : play-circle
+    description                           : All information in one place!
+    fontawesome_icon_name                 : list
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
