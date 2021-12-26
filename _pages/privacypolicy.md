@@ -490,7 +490,7 @@ We may use your personal information for our own business purposes, such as for 
 
   
 
-Salutt has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. salutt will not sell personal information in the future belonging to website visitors, users and other consumers.
+salutt has not disclosed or sold any personal information to third parties for a business or commercial purpose in the preceding 12 months. salutt will not sell personal information in the future belonging to website visitors, users and other consumers.
 
   
 
